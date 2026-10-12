@@ -1,8 +1,3 @@
-<!-- Hero Banner Animated Header -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/10vhgSBZYaYnHRQOe-JF7i1AbMVNx1lQq/view?usp=sharing" alt="Header Banner"/>
-</p>
-
 <!-- Banner Principal Personalizado -->
 <p align="center">
   <img src="ChatGPT Image Sep 16, 2026, 02_06_00 AM.png" alt="Johan Tomas Malasquez Valerio - Banner Programador Analista de Sistemas" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,255,170,0.2);"/>

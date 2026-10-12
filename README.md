@@ -5,7 +5,7 @@
 
 <!-- Animación de Título Dinámico -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Johan+Tomas+Malasquez+Valerio;Programador+%26+Analista+de+Sistemas;Egresado+del+I.E.S.T.P.+Valle+Grande;Spring+Boot+%2B+Angular+%2B+APIs+REST;Transformando+ideas+en+soluciones+digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Programador+%26+Analista+de+Sistemas;Spring+Boot+%2B+Angular+%2B+APIs+REST;Transformando+ideas+en+soluciones+digitales" alt="Typing SVG" />
 </h1>
 
 <!-- Insignias de métricas de perfil -->

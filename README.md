@@ -1,6 +1,6 @@
 <!-- Hero Banner Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Johan%20Malasquez&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header Banner"/>
+  <img src="https://drive.google.com/file/d/10vhgSBZYaYnHRQOe-JF7i1AbMVNx1lQq/view?usp=sharing" alt="Header Banner"/>
 </p>
 
 <!-- Banner Principal Personalizado -->
